@@ -1,0 +1,16 @@
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/bin/Debug/netcoreapp2.0/testing_tdd.Tests.deps.json
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/bin/Debug/netcoreapp2.0/testing_tdd.Tests.runtimeconfig.json
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/bin/Debug/netcoreapp2.0/testing_tdd.Tests.runtimeconfig.dev.json
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/bin/Debug/netcoreapp2.0/testing_tdd.Tests.dll
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/bin/Debug/netcoreapp2.0/testing_tdd.Tests.pdb
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/bin/Debug/netcoreapp2.0/testing_tdd.CLI.dll
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/bin/Debug/netcoreapp2.0/testing_tdd.CLI.pdb
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/obj/Debug/netcoreapp2.0/testing_tdd.Tests.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/obj/Debug/netcoreapp2.0/testing_tdd.Tests.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/obj/Debug/netcoreapp2.0/testing_tdd.Tests.AssemblyInfo.cs
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/obj/Debug/netcoreapp2.0/testing_tdd.Tests.csproj.CopyComplete
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/obj/Debug/netcoreapp2.0/testing_tdd.Tests.dll
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.Tests/obj/Debug/netcoreapp2.0/testing_tdd.Tests.pdb

@@ -1,0 +1,10 @@
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.CLI/bin/Debug/netcoreapp2.0/testing_tdd.CLI.deps.json
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.CLI/bin/Debug/netcoreapp2.0/testing_tdd.CLI.runtimeconfig.json
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.CLI/bin/Debug/netcoreapp2.0/testing_tdd.CLI.runtimeconfig.dev.json
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.CLI/bin/Debug/netcoreapp2.0/testing_tdd.CLI.dll
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.CLI/bin/Debug/netcoreapp2.0/testing_tdd.CLI.pdb
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.CLI/obj/Debug/netcoreapp2.0/testing_tdd.CLI.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.CLI/obj/Debug/netcoreapp2.0/testing_tdd.CLI.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.CLI/obj/Debug/netcoreapp2.0/testing_tdd.CLI.AssemblyInfo.cs
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.CLI/obj/Debug/netcoreapp2.0/testing_tdd.CLI.dll
+/Users/mac/Desktop/Ing. de Software/testing_tdd/testing_tdd.CLI/obj/Debug/netcoreapp2.0/testing_tdd.CLI.pdb
